@@ -13,7 +13,7 @@ const Summary = () => {
           <p>Equity</p>
         </span>
 
-        <div className="data">
+        <div className="data"> 
           <div className="first">
             <h3>3.74k</h3>
             <p>Margin available</p>
