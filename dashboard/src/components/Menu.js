@@ -15,7 +15,7 @@ const Menu = () => {
   };
 
   const menuClass = "menu";
-  const activeMenuClass = "menu selected";
+  const activeMenuClass = "menu selected"; 
 
   return (
     <div className="menu-container">
