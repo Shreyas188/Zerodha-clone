@@ -19,7 +19,7 @@ const Holdings = () => {
 
   const data = {
     labels,
-    datasets: [
+    datasets: [ 
       {
         label: "Stock Price",
         data: allHoldings.map((stock) => stock.price),
