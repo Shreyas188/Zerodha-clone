@@ -19,5 +19,5 @@ function OpenAccount() {
     </div>
   );
 }
-
+ 
 export default OpenAccount;
