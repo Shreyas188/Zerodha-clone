@@ -11,7 +11,7 @@ const Orders = () => {
           Get started
         </Link>
       </div>
-    </div>
+    </div> 
   );
 };
 
