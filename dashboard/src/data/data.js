@@ -5,7 +5,7 @@ export const watchlist = [
     percent: "-1.60%",
     isDown: true,
   },
-  {
+  { 
     name: "ONGC",
     price: 116.8,
     percent: "-0.09%",
