@@ -17,7 +17,7 @@ ChartJS.register(
   Title,
   Tooltip,
   Legend
-);
+); 
 
 export const options = {
   responsive: true,
